@@ -15,3 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+
+[![Flutter APK Build](https://github.com/Abhin147/Profile_card/actions/workflows/flutter_build.yml/badge.svg?branch=main)](https://github.com/Abhin147/Profile_card/actions/workflows/flutter_build.yml)
