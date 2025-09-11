@@ -1,5 +1,7 @@
 # Profile_card
 
+[![Flutter APK Build](https://github.com/Abhin147/Profile_card/actions/workflows/flutter_build.yml/badge.svg?branch=main)](https://github.com/Abhin147/Profile_card/actions/workflows/flutter_build.yml)
+
 A new Flutter project.
 
 ## Getting Started
@@ -16,4 +18,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-[![Flutter APK Build](https://github.com/Abhin147/Profile_card/actions/workflows/flutter_build.yml/badge.svg?branch=main)](https://github.com/Abhin147/Profile_card/actions/workflows/flutter_build.yml)
+
