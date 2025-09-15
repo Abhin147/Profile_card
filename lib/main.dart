@@ -17,9 +17,9 @@ class MyWidget extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             CircleAvatar(
-              backgroundImage: NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-fW54XeWoC_4hHOyWoIinBh6OVVkGX317vQ&s'),
+              backgroundImage: AssetImage("assets/image/abhin.jpg"),
               // backgroundColor: Colors.red,
-              radius:60,
+              radius:70,
             ),
 
             Text("Abhin J Gomez",style: TextStyle(fontSize:25,color:Colors.white,fontWeight: FontWeight.bold),),
@@ -67,4 +67,5 @@ class MyWidget extends StatelessWidget {
       ),
     );
   }
+
 }
