@@ -19,7 +19,7 @@ class MyWidget extends StatelessWidget {
             CircleAvatar(
               backgroundImage: AssetImage("assets/image/abhin.jpg"),
               // backgroundColor: Colors.red,
-              radius:60,
+              radius:70,
             ),
 
             Text("Abhin J Gomez",style: TextStyle(fontSize:25,color:Colors.white,fontWeight: FontWeight.bold),),
